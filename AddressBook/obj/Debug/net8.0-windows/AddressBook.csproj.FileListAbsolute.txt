@@ -1,0 +1,14 @@
+C:\Users\user\dcit-318-assignment-4-10947727-\AddressBook\bin\Debug\net8.0-windows\AddressBook.exe
+C:\Users\user\dcit-318-assignment-4-10947727-\AddressBook\bin\Debug\net8.0-windows\AddressBook.deps.json
+C:\Users\user\dcit-318-assignment-4-10947727-\AddressBook\bin\Debug\net8.0-windows\AddressBook.runtimeconfig.json
+C:\Users\user\dcit-318-assignment-4-10947727-\AddressBook\bin\Debug\net8.0-windows\AddressBook.dll
+C:\Users\user\dcit-318-assignment-4-10947727-\AddressBook\bin\Debug\net8.0-windows\AddressBook.pdb
+C:\Users\user\dcit-318-assignment-4-10947727-\AddressBook\obj\Debug\net8.0-windows\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\dcit-318-assignment-4-10947727-\AddressBook\obj\Debug\net8.0-windows\AddressBook.AssemblyInfoInputs.cache
+C:\Users\user\dcit-318-assignment-4-10947727-\AddressBook\obj\Debug\net8.0-windows\AddressBook.AssemblyInfo.cs
+C:\Users\user\dcit-318-assignment-4-10947727-\AddressBook\obj\Debug\net8.0-windows\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\user\dcit-318-assignment-4-10947727-\AddressBook\obj\Debug\net8.0-windows\AddressBook.dll
+C:\Users\user\dcit-318-assignment-4-10947727-\AddressBook\obj\Debug\net8.0-windows\refint\AddressBook.dll
+C:\Users\user\dcit-318-assignment-4-10947727-\AddressBook\obj\Debug\net8.0-windows\AddressBook.pdb
+C:\Users\user\dcit-318-assignment-4-10947727-\AddressBook\obj\Debug\net8.0-windows\AddressBook.genruntimeconfig.cache
+C:\Users\user\dcit-318-assignment-4-10947727-\AddressBook\obj\Debug\net8.0-windows\ref\AddressBook.dll
